@@ -459,7 +459,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📞 Contact
 
-- **Project Lead**: mailto: <<reenuasrin2008@gmail.com>> (mailto:you@example.com)
+- **Project Lead**: mailto: <reenuasrin2008@gmail.com>
 - **Demo**: <https://agrofinsense.demo>
 - **Documentation**: <https://docs.agrofinsense.io>
 
